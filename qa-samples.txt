@@ -1,0 +1,79 @@
+Question : Who is Steve Jobs?
+Correct Answer : Steve Jobs was an American entrepreneur, businessman, inventor, and industrial designer.
+My System Answer : Steve Jobs was an American entrepreneur, businessman, inventor, and industrial designer. (correct)
+
+Question : Who is Santa Claus?
+Correct Answer : Santa Claus is a legendary figure of Western Christian culture who is said to bring gifts to the homes of well-behaved ("good" or "nice") children on Christmas Eve (24 December) and the early morning hours of Christmas Day (25 December).
+My System Answer : Santa Claus is a legendary figure of Western Christian culture who is said to bring gifts to the homes of well-behaved ("good" or "nice") children on Christmas Eve (24 December) and the early morning hours of Christmas Day (25 December).  (Correct)
+
+Question : Who is Kate Walsh?
+Correct Answer : Kathleen Erin "Kate" Walsh (born October 13, 1967) is an American actress and businesswoman.
+My System Answer : I'm sorry, I don't know.  (Incorrect)
+
+Question : Who was George Washington's wife?
+Correct Answer : George Washington's wife was Martha Washington.
+My System Answer : I'm sorry, I don't know. (Incorrect)
+
+Question : Who was Alexander Hamilton?
+Correct Answer : Alexander Hamilton was an American statesman and one of the Founding Fathers of the United States.
+My System Answer : Alexander Hamilton was an American statesman and one of the Founding Fathers of the United States. (Correct)
+
+Question : What is Hamilton?
+Correct Answer : Hamilton is a sung-through musical about the life of American Founding Father Alexander Hamilton, with music, lyrics and book by Lin- Manuel Miranda.
+My System Answer : I'm sorry, I don't know. (Incorrect)
+
+Question : What is Whiskey?
+Correct Answer : Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. 
+My System Answer : Whiskey are thus distinguished in spelling; 'whisky' is the usual spelling in Britain and 'whiskey' that in the U.S." is a type of distilled alcoholic beverage made from fermented grain mash. (Incorrect)
+
+Question : What is a dog?
+Correct Answer : A dog is a member of genus Canis (canines) that forms part of the wolf-like canids, and is the most widely abundant carnivore.
+My System Answer : A dog is a member of genus [[Canis]] (canines) that forms part of the wolf-like canids, and is the most widely abundant carnivore. (Correct)
+
+Question : What is fire?
+Correct Answer : Fire is the rapid oxidation of a material in the exothermic chemical process of combustion, releasing heat, light, and various reaction products.
+My System Answer : Fire is the rapid oxidation of a material in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. (Correct)
+
+Question : What is life?
+Correct Answer : Life is a characteristic distinguishing physical entities having biological processes, such as signaling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate.
+My System Answer : Life is still uncertain. (Incorrect)
+
+Question : Where is the Eiffel Tower?
+Correct Answer : The Eiffel Tower is in Paris France.
+My System Answer : The Eiffel Tower is located in 7th arrondissement, Paris, France. (Correct);
+
+Question : Where is Budapest?
+Correct Answer : Budapest is in Hungary.
+My System Answer : Budapest is located in Budapest, including the E+¦tv+¦s Lor+índ University, Central European University and Budapest University of Technology and Economics. (Incorrect)
+
+Question : Where is Richmond Virignia?
+Correct Answer : Richmond, Virginia is located at the fall line of the James River, west of Williamsburg, east of Charlottesville, and south of Washington, D.C.
+My System Answer : Richmond, Virginia is located at the fall line of the James River, west of Williamsburg, east of Charlottesville, and south of Washington, D.C. (Correct)
+
+Question : Where is Hollywood?
+Correct Answer : Hollywood is located in the central region of Los Angeles, California.
+My System Answer : Hollywood is located in the central region of Los Angeles, California. (Correct)
+
+Question : Where is London?
+Correct Answer : London is located on the River Thames in the south east of the island of Great Britain.
+My System Answer : London is located in the picture causes the browser to load the appropriate article. (Incorrect)
+
+Question : When was D-Day?
+Correct Answer : The Normandy landings were on Tuesday, 6 June 1944.
+My System Answer : D-day was 6  June 1944. (Correct)
+
+Question : When was World War II?
+Correct Answer : World War II lasted from 1939 to 1945.
+My System Answer : I'm sorry, I don't know. (Incorrect)
+
+Question : When was the Gettysburg Address??
+Correct Answer : The Gettysburg Address was delivered on Thursday, November 19, 1863.
+My System Answer : I'm sorry, I don't know. (Incorrect)
+
+Qusestion : When is Christmas?
+Correct Answer : Christmas is December 25.
+My System Answer : I'm sorry, I don't know. (Incorrect);
+
+Question : When was Steve Jobs born?
+Correct Answer : Steve Jobs's Birthday is February 24, 1955.
+My System Answer : Steve Jobs was born on February 24, 1955. (Correct)
